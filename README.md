@@ -1,4 +1,3 @@
-zbp
-===
+ZBlog PHP 安装程序
 
-ZBlog PHP
+www.toyean.com
